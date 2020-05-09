@@ -1,4 +1,4 @@
-# How to compile redis 5 for windows 10 using cygwin gcc.
+# How to compile redis for windows 10 using cygwin gcc.
 ### This is for testing redis on windows 10 only. not for production !!
 ### use it on your own risk , your anti virus may detect it as a virus its not !
 ### Motivation:
